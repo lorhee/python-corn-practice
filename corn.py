@@ -1,4 +1,4 @@
-import math
+﻿import math
 
 pricedozencorn = 10
 pricehalfdozen=5.5
